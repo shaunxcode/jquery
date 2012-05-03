@@ -1,0 +1,10 @@
+{
+  "name": "jquery-component",
+  "description": "jQuery component",
+  "keywords": ["jquery", "component"],
+  "component": {
+    "scripts": {
+      "jquery": "dist/component.js"
+    }
+  }
+}
