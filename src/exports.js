@@ -1,5 +1,8 @@
 (function( jQuery ) {
 
+// Expose for component
+module.exports = jQuery;
+
 // Expose jQuery to the global object
 window.jQuery = window.$ = jQuery;
 

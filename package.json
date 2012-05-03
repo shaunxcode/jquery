@@ -1,10 +1,11 @@
 {
   "name": "jquery-component",
+  "version": "1.7.3pre",
   "description": "jQuery component",
   "keywords": ["jquery", "component"],
   "component": {
     "scripts": {
-      "jquery": "dist/component.js"
+      "jquery": "dist/jquery.js"
     }
   }
 }
