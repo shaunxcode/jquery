@@ -1,6 +1,7 @@
 {
+<<<<<<< HEAD
   "name": "jquery-component",
-  "version": "1.7.3pre",
+  "version": "1.8.2",
   "description": "jQuery component",
   "keywords": ["jquery", "component"],
   "component": {
