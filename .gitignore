@@ -6,4 +6,7 @@ src/selector.js
 *.patch
 /*.html
 .DS_Store
+dist/.destination.json
+dist/.sizecache.json
 build/.sizecache.json
+node_modules
